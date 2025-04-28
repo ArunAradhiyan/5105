@@ -1,0 +1,5 @@
+   # Initialize Git (if not already done)
+ <repository-URL>  # Add remote repository
+  # Stage all files
+git commit -m "Your commit message"  # Commit changes
+git push origin main  # Push files to GitHub
